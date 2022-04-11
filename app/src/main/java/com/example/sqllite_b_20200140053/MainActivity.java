@@ -1,12 +1,12 @@
 package com.example.sqllite_b_20200140053;
 
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.recyclerview.widget.LinearLayoutManager;
-import androidx.recyclerview.widget.RecyclerView;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.sqllite_b_20200140053.Adapter.TemanAdapter;
 import com.example.sqllite_b_20200140053.Database.DBController;
